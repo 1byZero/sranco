@@ -9,7 +9,7 @@ from sranco import __version__ as version
 setup(
 	name="sranco v2",
 	version=version,
-	description="customizations",
+	description="Sranco v2 for Srinivassan and Co.",
 	author="Amit Kumar",
 	author_email="amit@worf.in",
 	packages=find_packages(),
