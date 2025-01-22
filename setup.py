@@ -7,11 +7,11 @@ with open("requirements.txt") as f:
 from sranco import __version__ as version
 
 setup(
-	name="sranco",
+	name="sranco v2",
 	version=version,
 	description="customizations",
-	author="Dinesh Panchal",
-	author_email="dinesh@addon-s.com",
+	author="Amit Kumar",
+	author_email="amit@worf.in",
 	packages=find_packages(),
 	zip_safe=False,
 	include_package_data=True,
