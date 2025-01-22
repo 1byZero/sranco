@@ -1,4 +1,4 @@
-# Sranco - ERP Customization for Srinivasan & Co.
+# Sranco v2 - ERP Customization for Srinivasan & Co.
 
 ## Overview
 This application is a custom ERPNext implementation specifically designed for Srinivasan & Co.'s internal business processes. It extends ERPNext functionality to meet the unique requirements of the organization.
